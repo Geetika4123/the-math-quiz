@@ -1,0 +1,53 @@
+body
+{
+	background: rgb(111, 224, 177);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(66, 177, 131);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name, #player2_name
+{
+	display: inline-block;
+	margin-left: 30px;
+    color: darkgreen;
+    background-color: lightgreen;
+ 
+}
+#sign_in
+{
+	background-color: rgb(66, 177, 131); 
+	border:  2px solid #000000;;
+	color: rgb(0, 0, 0);
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+
+}
+#output
+{
+background: rgb(128, 210, 154);
+border-radius: 10px;
+border-top: 10px solid #7bd797;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#number
+{
+	width: 100%;
+}
+#num1,#num2{
+	width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
